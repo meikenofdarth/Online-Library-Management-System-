@@ -100,7 +100,6 @@ __int32_t main()
             }
         }   
         
-        //BOOKS KA SATH BACKCHODI KARNI PADEGI...
         while(1)
         {
             char inf[100];

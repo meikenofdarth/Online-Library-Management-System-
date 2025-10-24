@@ -189,7 +189,7 @@ __int32_t main()
             strcpy(rec,ptr);      
         }
 
-        //BOOKS KA SATH BACKCHODI KARNI PADEGI...
+
 
         while(1)
         {

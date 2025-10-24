@@ -1,9 +1,9 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <arpa/inet.h>
-#include <stdio.h> // You'll typically need stdio.h for input/output functions
-#include <stdlib.h> // You may need stdlib.h for memory allocation functions
-#include <unistd.h> // You may need unistd.h for close() function
+#include <stdio.h> 
+#include <stdlib.h> 
+#include <unistd.h> 
 #include <string.h>
 #include "client.h"
 #include <signal.h>
